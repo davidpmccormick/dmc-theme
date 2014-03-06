@@ -1,0 +1,15 @@
+{
+  "name": "dmc",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "private": true,
+  "description": "A theme for spacegray dark UI, but with more contrast than base16 ocean",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/davidpmccormick/dmc-theme"
+  },
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  }
+}
